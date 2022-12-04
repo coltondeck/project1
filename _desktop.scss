@@ -1,0 +1,15 @@
+@media (max-width: 900px) {
+    nav ul {
+      justify-content: flex-start;
+    }
+    nav a { 
+      margin-top: 3.5rem;
+    }
+    }
+    
+    @media (max-width:768px) {
+     nav ul {
+      justify-content: space-between;
+     }
+    }
+    
